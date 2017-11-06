@@ -4,4 +4,4 @@ In this project, I investigated a classic phenomenon from experimental psycholog
 
 * Identified components of an experiment
 * Used descriptive statistics to describe qualities of a sample
-* Set up a hypothesis test, make inferences from a sample, and drew conclusions based on the results
+* Set up a hypothesis test, made inferences from a sample, and drew conclusions based on the results
